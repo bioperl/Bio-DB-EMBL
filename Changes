@@ -3,3 +3,4 @@ Summary of important user-visible changes for Bio-DB-EMBL
 
 {{$NEXT}}
   * First release after split from bioperl-live.
+  * Remove Bio::DB::RefSeq dependency, which isn't tested outside of Bio::DB::RefSeq
