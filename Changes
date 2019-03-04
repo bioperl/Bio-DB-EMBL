@@ -2,6 +2,7 @@ Summary of important user-visible changes for Bio-DB-EMBL
 ---------------------------------------------------------
 
 {{$NEXT}}
+  * Fix test issues with Bio::Root::Test
 
 1.7.3     2019-03-01 12:35:12-06:00 America/Chicago
   * First release after split from bioperl-live.
